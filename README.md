@@ -3,3 +3,4 @@ Binary classification the news using natural language processing.
 
 The project is a kaggle competition task.
 	For more information visit this link https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
+	Download "Fake.csv" and "True.csv" files if you want to run the code. 
